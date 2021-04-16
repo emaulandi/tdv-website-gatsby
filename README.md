@@ -1,3 +1,10 @@
+# Forked from gatsby-starter-forty
+https://github.com/codebushi/gatsby-starter-forty
+
+Plans
+- Use fonctionnal components
+- Add markdwon support
+
 # gatsby-starter-forty
 
 **This is a starter for Gatsby.js V2.**
