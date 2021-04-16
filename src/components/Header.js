@@ -1,13 +1,17 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import useSiteMetadata from '../hooks/useSiteMetadata'
 
-const Header = ({ onToggleMenu }) => (
+const Header = ({ onToggleMenu }) => {
+  const { headerTitle, headerSubtitle } = useSiteMetadata();
+  return ( 
     <header id="header" className="alt">
-        <Link to="/" className="logo"><strong>Forty</strong> <span>by HTML5 UP</span></Link>
-        <nav>
-            <a className="menu-link" onClick={onToggleMenu} href="javascript:;">Menu</a>
-        </nav>
+      <Link to="/" className="logo"><strong>{headerTitle}</strong> <span>{headerSubtitle}</span></Link>
+      <nav>
+        <a className="menu-link" onClick={onToggleMenu} href="javascript:;">Menu</a>
+      </nav>
     </header>
-)
+  );
+}
 
 export default Header
