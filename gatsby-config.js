@@ -39,12 +39,25 @@ module.exports = {
     },
     `gatsby-transformer-csv`,
     {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        defaultLayouts: {
+          default: require.resolve("./src/components/MDXPageLayout.js"),
+        },
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
         path: `${__dirname}/src/pages/`,
       },
     },
-    `gatsby-plugin-mdx`,
+    {
+      resolve: "gatsby-plugin-page-creator",
+      options: {
+        path: `${__dirname}/src/pages`,
+      },
+    },
   ],
 }
