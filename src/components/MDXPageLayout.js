@@ -7,7 +7,7 @@ const components = {
   // Map HTML element tag to React component
   h1: props => (
     <header className="major">
-      <h1 {...props}></h1>
+      <h2 {...props}></h2>
     </header>
   ),
   iframe: props => (
@@ -20,11 +20,7 @@ const MDXPageLayout = ({ children }) => (
     <MDXProvider
       components={components}
     >
-      <section id="one">
-        <div className="inner">
-          {children}
-        </div>
-      </section>
+      {children}
     </MDXProvider>
   </Layout>
 )
