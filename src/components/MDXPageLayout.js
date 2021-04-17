@@ -10,6 +10,9 @@ const components = {
       <h1 {...props}></h1>
     </header>
   ),
+  iframe: props => (
+    <iframe style={{ backgroundColor: "white" }} {...props} />
+  )
 };
 
 const MDXPageLayout = ({ children }) => (
