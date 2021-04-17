@@ -3,7 +3,6 @@ import React, { useState, useEffect } from 'react'
 import '../assets/scss/main.scss'
 import Header from './Header'
 import Menu from './Menu'
-import Contact from './Contact'
 import Footer from './Footer'
 
 const Layout = ({ children }) => {
@@ -11,9 +10,7 @@ const Layout = ({ children }) => {
   const [loading, setLoading] = useState('is-loading');
 
   useEffect(() => { 
-    setTimeout(() => {
-      setLoading('');
-    }, 100);
+    setLoading('');
   });
 
   const handleToggleMenu = () => {

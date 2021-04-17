@@ -15,7 +15,7 @@ const Menu = ({ onToggleMenu }) => (
         <li><a href="#" className="button fit">Log In</a></li>
       </ul>
     </div>
-    <a className="close" onClick={onToggleMenu} href="javascript:;">Close</a>
+    <a className="close" onClick={onToggleMenu}>Close</a>
   </nav>
 )
 

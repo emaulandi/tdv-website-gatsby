@@ -6,13 +6,6 @@ import Banner from '../components/Banner'
 import useSiteMetadata from '../hooks/useSiteMetadata'
 import useHomeContent from '../hooks/useHomeContent'
 
-import pic01 from '../assets/images/pic01.jpg'
-import pic02 from '../assets/images/pic02.jpg'
-import pic03 from '../assets/images/pic03.jpg'
-import pic04 from '../assets/images/pic04.jpg'
-import pic05 from '../assets/images/pic05.jpg'
-import pic06 from '../assets/images/pic06.jpg'
-
 const HomeIndex = () => {
   const { headerTitle, headerSubtitle } = useSiteMetadata();
   const homeContentCsv = useHomeContent();
@@ -33,14 +26,14 @@ const HomeIndex = () => {
       <div id="main">
         <section id="one" className="tiles">
 
-          {homeContentCsv.map(({ title, subtitle, slug }) => {
+          {homeContentCsv.map(({ title, subtitle, slug }, index) => {
             return (
-              <article>
-              <header className="major">
-                  <h3>{title}</h3>
-                  <p>{subtitle}</p>
-              </header>
-              <Link to={slug} className="link primary"></Link>
+              <article key={`article-${index}`}>
+                <header className="major">
+                    <h3>{title}</h3>
+                    <p>{subtitle}</p>
+                </header>
+                <Link to={slug} className="link primary"></Link>
             </article>
             )
           })}
