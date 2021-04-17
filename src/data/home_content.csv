@@ -1,0 +1,7 @@
+title, subtitle, slug, backgroungPicturePath, isInMenu
+Aliquam, Ipsum dolor sit amet, /landing, pic01.jpg, true
+Tempus, feugiat amet tempus, /landing, pic02.jpg, true
+Magna, Lorem etiam nullam, /landing, pic03.jpg, true
+Ipsum, Nisl sed aliquam, /landing, pic04.jpg, true
+Consequat, Ipsum dolor sit amet, /landing, pic05.jpg, false
+Etiam, Feugiat amet tempus, /landing, pic05.jpg, false
