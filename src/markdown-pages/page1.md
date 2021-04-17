@@ -1,5 +1,5 @@
 ---
-slug: "/blog/my-first-post"
+slug: "/page1"
 title: "My first blog post"
 ---
 
@@ -12,3 +12,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum fac
 ### Hi
 
 Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+
+<h3>Buttons</h3>
+<ul className="actions">
+<li><a href="#" className="button special">Special</a></li>
+<li><a href="#" className="button">Default</a></li>
+</ul>
+<ul className="actions">
+<li><a href="#" className="button big">Big</a></li>
+<li><a href="#" className="button">Default</a></li>
+<li><a href="#" className="button small">Small</a></li>
+</ul>

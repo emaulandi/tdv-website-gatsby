@@ -1,22 +1,30 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-const Menu = ({ onToggleMenu }) => (
-  <nav id="menu">
-    <div className="inner">
-      <ul className="links">
-        <li><Link onClick={onToggleMenu} to="/">Home</Link></li>
-        <li><Link onClick={onToggleMenu} to="/landing">Landing</Link></li>
-        <li><Link onClick={onToggleMenu} to="/generic">Generic</Link></li>
-        <li><Link onClick={onToggleMenu} to="/elements">Elements</Link></li>
-      </ul>
-      <ul className="actions vertical">
-        <li><a href="#" className="button special fit">Get Started</a></li>
-        <li><a href="#" className="button fit">Log In</a></li>
-      </ul>
-    </div>
-    <a className="close" onClick={onToggleMenu}>Close</a>
-  </nav>
-)
+import useHomeContent from '../hooks/useHomeContent'
+
+const Menu = ({ onToggleMenu }) => {
+  const homeContentCsv = useHomeContent();
+  
+  return (
+    <nav id="menu">
+      <div className="inner">
+        <ul className="links">
+          <li><Link onClick={onToggleMenu} to={"/"}>Home</Link></li>
+          {homeContentCsv.map(({ title, slug, isInMenu }, index) => {
+            if (isInMenu === 'true') {
+              return (
+                <li key={`menu-li-${index}`}>
+                  <Link onClick={onToggleMenu} to={slug}>{title}</Link>
+                </li>
+              )
+            }
+          })}
+        </ul>
+      </div>
+      <a className="close" onClick={onToggleMenu}>Close</a>
+    </nav>
+  )
+}
 
 export default Menu
