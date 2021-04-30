@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    headerTitle: "headerTitle",
-    headerSubtitle: "headerSubtitle",
-    headline: "Hi, my name is Forty",
-    description: "A responsive site template designed by HTML5 UP and released under the Creative Commons.",
-    actionButton: "get started",
+    headerTitle: "Toulouse Dataviz",
+    headerSubtitle: "Bienvenue !",
+    headline: "Toulouse Dataviz",
+    description: "Notre but ? Promouvoir et diffuser la culture de l’analyse et de la visualisation des données. Découvrez comment ",
+    actionButton: "Découvrir l'association",
   },
   plugins: [
     'gatsby-plugin-react-helmet',
