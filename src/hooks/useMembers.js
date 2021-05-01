@@ -6,6 +6,7 @@ export const useMembers = () => {
       allMembresCsv {
         nodes {
           nom
+          pic_name
           twitter
           nom_site
           linkedin
