@@ -1,0 +1,1004 @@
+meetupid,title,day,month,year,meetupLink,videoLink,place,descriptionHtml
+42,"#42 Remise des prix du Mapathon “Tous (im)mobiles, tous cartographes ?”",2,Nov,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/270646599/,,"
+webinar 
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Présentation des contributions et remise des prix du Mapathon organisé dans le cadre du colloque “Tous (im)mobiles, tous cartographes ?” .
+  <br/>
+  Notre Association Toulouse DataViz a apporté son soutien aux organisateurs de ce concours basé sur le principe de notre HACKAVIZ.
+  <br/>
+  Le thème du Mapathon est l’évolution spatio-temporelle du transport aérien (de passagers, de biens : fret et courrier, et les mouvements d’avion) observé en France métropolitaine de 1999 à 2020.
+  <br/>
+  Les contributions sont visibles
+  <span style=""color: #0000ff;"">
+   <a href=""https://cartomob.sciencesconf.org/resource/page/id/15"" rel=""noopener noreferrer"" style=""color: #0000ff;"" target=""_blank"">
+    ici
+   </a>
+   .
+  </span>
+ </p>
+ <div>
+ </div>
+ <div>
+  la
+  <a href="" "" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo à venir
+   </span>
+  </a>
+ </div>
+</div>
+"
+41,#41 Optimisation des prix : Techniques et Visualisation,15,Oct,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/270646599/,,"
+webinar 
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  “Le pricing” est déjà une préoccupation majeure des entreprises outre-atlantique, et l’Europe s’outille progressivement. Dans le secteur B2B (les entreprises qui vendent aux entreprises), de nombreuses visualisations émergent pour comprendre les transactions du passé, du présent et projeter dans l’avenir différentes simulations. L’essor des technologies d’apprentissage automatique, de gestion des gros volumes de données, ouvrent de nouvelles perspectives, mais tant que nous ne sommes pas tous remplacés par des robots, il faudra toujours que l’information ou plutôt la part utile de l’information soit in fine transmise à des humains qui prendront des décisions pour interagir avec d’autres humains. Il y a là un chantier permanent d’améliorations des visualisations et des usages. Un peu de machine learning, un peu d’IA pour optimiser des prix, un peu de visualisation pour tracker des anomalies ou pour aider à la définition d’objectifs.
+  <br/>
+  Jean Pierre Mano est Data Scientist et relèvera le défi de nous présenter ce sujet passionnant.
+ </p>
+ <div>
+ </div>
+ <div>
+  La
+  <a href=""https://speakerdeck.com/alaino/optimisation-des-prix-techniques-et-visualisation"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    présentation
+   </span>
+  </a>
+ </div>
+ <div>
+  la
+  <a href="" "" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo à venir
+   </span>
+  </a>
+ </div>
+</div>
+"
+40,#40 Examen des dataviz à la mode : lesquelles auront la moyenne ?,24,Juin,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/270646599/,https://www.youtube.com/watch?v=qeFujC52mZQ&t=1s&ab_channel=ToulouseDataViz,"
+webinar 
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Pour le dernier meetup de la saison, l’équipe Toulouse Dataviz vous propose une soirée spéciale de distribution de notes des dataviz les plus en vues.
+ </p>
+ <p>
+  Nous passerons en revue les meilleures et les plus mauvaises pratiques en vigueur dans les medias et les réseaux sociaux. Et essayer d’en tirer les enseignements.
+ </p>
+ <p>
+  Une belle soirée de dataviz en perspective !
+ </p>
+ <div>
+ </div>
+ <div>
+  la
+  <a href=""https://www.youtube.com/watch?v=qeFujC52mZQ&amp;t=1s&amp;ab_channel=ToulouseDataViz"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo
+   </span>
+  </a>
+ </div>
+</div>
+"
+39,#39 Les Dataviz du Covid-19,28,Mai,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/270646599/,https://www.youtube.com/watch?v=Uxq7G9UzRYU&ab_channel=ToulouseDataViz,"
+webinar 
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Qui aurait imaginé que les médias allaient s’emparer massivement de la dataviz pour communiquer sur la crise du COVID19, jusqu’à entrainer les politiques dans ce mouvement. Beaucoup de données et d’interrogations sur ces données pour savoir à quelles questions elles peuvent répondre et comment les encoder pour réaliser des visualisations pertinentes.
+ </p>
+ <p>
+  Des centaines de graphiques ont été publiés depuis 3 mois et nous vous proposons d’en déconstruire des bons et des moins bons pour comprendre comment les règles de la dataviz ont été mises en œuvre, pour détecter les pièges et aussi les visualisations trompeuses ou mensongères.
+ </p>
+ <p>
+  Toute l’équipe Toulouse Dataviz se mobilise pour vous proposer un panorama complet sur les dataviz du COVID-19 et pour en débattre avec vous.
+ </p>
+ <div>
+ </div>
+ <div>
+  la
+  <a href=""https://www.youtube.com/watch?v=Uxq7G9UzRYU&amp;ab_channel=ToulouseDataViz"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo
+   </span>
+  </a>
+ </div>
+</div>
+"
+38,#38 L’hackaviz 2020 Remise des prix en direct sur Twitch.,26,Mar,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/269529416/,https://www.youtube.com/watch?v=HK91Ss-HssI&ab_channel=ToulouseDataViz,"
+Web TV 
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  La retransmission en direct de la remise des prix de l’Hackaviz 2020 de 20:30 à 21:30.
+ </p>
+ <p>
+ </p>
+ <div>
+  la
+  <a href=""https://www.youtube.com/watch?v=HK91Ss-HssI&amp;ab_channel=ToulouseDataViz"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo
+   </span>
+  </a>
+ </div>
+ <div>
+  Retrouver toutes les
+  <a href=""http://toulouse-dataviz.fr/resultats-hackaviz-2020"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    contributions
+   </span>
+  </a>
+  des lauréats et de tous les participants.
+ </div>
+</div>
+"
+37,#37 Le défi de la visualisation des données météorologiques.,27,Fev,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/268795232/,https://www.youtube.com/watch?v=7MdTe_n6w0M&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Beaucoup d’utilisateurs souhaitent disposer de prévisions météorologiques les plus exactes possible, le plus à l’avance possible. Or, du fait de la nature chaotique des équations (le fameux “effet papillon”), la prévision météorologique est intrinsèquement incertaine. Mais du fait de l’imperfection des systèmes de Prévision d’Ensemble, une étape de post-traitement statistique est nécessaire pour obtenir une dispersion réaliste des solutions. Par ailleurs, ces systèmes génèrent des masses considérables de données : l’étape de synthèse et de visualisation de cette information n’est pas encore tout à fait aboutie, que ce soit pour le prévisionniste humain, ou pour le grand public.
+ </p>
+ <p>
+  <strong>
+   Olivier Mestre
+  </strong>
+  de la Direction des Opérations pour la Prévision- Météo-France nous présentera ce défi.
+ </p>
+ <div>
+  la
+  <a href=""https://www.youtube.com/watch?v=7MdTe_n6w0M&amp;ab_channel=ToulouseDataViz"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    vidéo
+   </span>
+  </a>
+ </div>
+</div>
+"
+36,"#36 SOIREE EXCEPTIONNELLE AVEC CESAR HIDALGO : Dataviz, IA ET Data Science",5,Feb,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/268218403/,https://www.youtube.com/watch?v=t1T0b6Tj07Q&ab_channel=ToulouseDataViz,"
+Harry Cow
+13 rue sainte Ursule
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  <span style=""color: #0000ff;"">
+   <a href=""https://chidalgo.com/"" rel=""noopener noreferrer"" style=""color: #0000ff;"" target=""_blank"">
+    César Hidalgo
+   </a>
+  </span>
+  est un scientifique américain, d’origine chilienne, comme on en rencontre peu. Il vient de rejoindre l’institut interdisciplinaire en intelligence artificielle (3iA -ANITI) après un parcours académique passant par le MIT et Harvard (entre autres). Chercheur, auteur, fondateur de DataWheel (société de Data visualisation) il sera parmi nous pour une soirée exceptionnelle sur le thème “From Data to Stories: Designing and Engineering Data Visualization Engines for Public and Private Data.”
+ </p>
+ <p>
+  Orateur et passeur de savoir, il est de ceux qui aiment communiquer dans les médias (voir sa
+  <a href=""https://www.ted.com/talks/cesar_hidalgo_a_bold_idea_to_replace_politicians?language=en"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    conférence TED
+   </span>
+  </a>
+  ) et pour le grand public. C’est une chance inouïe de l’avoir chez nous (pour nous !) lors de ce Meetup exceptionnel qui sera intégralement EN ANGLAIS.
+ </p>
+ <p>
+  Résumé:
+  <br/>
+  “The data deluge has not made data driven decision making any easier. Today, organizations are inundated with data and struggle to use their data for planning and strategic purposes. The problem is that using data is not straightforward. It requires the design and development of infrastructure to facilitate data distribution, visualization, and updating.
+ </p>
+ <p>
+  In this presentation I will show the design and development of several award winning data visualization platforms, including DataUSA and the Observatory of Economic Complexity. I will describe the design principles that guide the development of these tools, as well as the innovations that power them.”
+ </p>
+</div>
+"
+35,#35 Atelier dataviz.,16,Jan,2020,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/267316120/,,"
+Wild Code School
+18 place Roguet, 31000 Toulouse (métro St Cyprien)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Pour la première fois, Toulouse Dataviz et la Wild Code School organisent un atelier de dataviz ouvert à tous. Venez exercer votre savoir en visualisation de données et confronter vos meilleures idées à celles des autres.
+  <br/>
+  Des applications qui malgré leur simplicité apparente méritent que l’on y réfléchisse à plusieurs, une série de jeux de données vous est proposée à l’avance :
+  <br/>
+  – vous y réfléchissez à la maison et préparer une proposition (sur un outil ou papier crayon puis photo)
+  <br/>
+  – vous partagez votre tentative par email (contact@toulouse-dataviz.fr ou @Tls_dataviz #atelierdataviz
+  <br/>
+  – vous venez présenter votre proposition et découvrir celles des autres le 16/1
+  <br/>
+  – on discute ensemble des points forts et points faibles de chaque option
+  <br/>
+  – on apprend des choses en s’amusant
+  <br/>
+  – on termine la séance autour d’une pizza
+ </p>
+ <p>
+  Ce meetup est organisé en partenariat avec la Wild Code School de Toulouse qui forme des web développeurs et data analysts.
+ </p>
+ <p>
+  Quelques unes des propositions débattues pour les 2 premiers exercices :
+  <a href=""http://toulouse-dataviz.fr/meetup_presentation/Poster.pdf"">
+   <span style=""color: #0000ff;"">
+    lien
+   </span>
+  </a>
+ </p>
+ <p>
+  Si vous voulez savoir ce qu’il faut en penser, …. il fallait venir… :
+  <a href=""http://toulouse-dataviz.fr/meetup_presentation/P1060885.JPG"">
+   <span style=""color: #0000ff;"">
+    photos
+   </span>
+  </a>
+ </p>
+</div>
+"
+34,#34 Comment Mentir avec des Graphiques? Les dessous de nos médias.,12,Dec,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/266753565/,https://www.youtube.com/watch?v=o_I7tZxkEW8&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  La représentation graphique de nos données a envahi nos médias. De nombreux facteurs (choix de la forme du graphique, des échelles, des couleurs, etc…) peuvent influencer la perception que nous avons de l’importance de certains phénomènes. Pire encore, des liens de cause à effet entre deux événements peuvent apparaitre visuellement, venant biaiser notre interprétation de données chiffrées. En montrant comment mentir efficacement, ce Meetup tentera de décoder les mécanismes fallacieux ou mensonger qui envahissent nos écrans et nos cerveaux.
+ </p>
+ <p>
+  <strong>
+   Christophe Bontemps
+  </strong>
+  est ingénieur de rechercher pour l’INRA à la Toulouse School of Economics et co-animateur du Meetup Toulouse dataviz
+ </p>
+</div>
+"
+33,"#33 Observablehq, “le notebook magique” de la dataviz",7,Nov,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/265738249/,https://www.youtube.com/watch?v=muijTV1tzcY&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  <a href=""https://observablehq.com"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    Observablehq
+   </span>
+  </a>
+  <span style=""color: #0000ff;"">
+   ,
+  </span>
+  est un environnement de développement Dataviz collaboratif tout en un dans le navigateur. Le monde de la dataviz s’est approprié cette plateforme très innovante en quelques mois. Une fois franchi la barrière d’étrangeté, vous ne pourrez plus vous en passer…
+  <br/>
+  Observablehq, la dernière aventure de Mike Bostock (l’auteur de d3js) est un sorte de tableur où chaque cellule est un fragment de code javascript.
+ </p>
+ <p>
+  <strong>
+   Alain Roan
+  </strong>
+  – (
+  <a href=""https://perceptible.fr/"" rel=""noopener noreferrer"" target=""_blank"">
+   <span style=""color: #0000ff;"">
+    perceptible.fr
+   </span>
+  </a>
+  ) présentera les principes techniques de cette plateforme et en quoi elle diffère, à dessein, du javascript pur sur quelques exemples.
+ </p>
+ <p>
+  <strong>
+   Alain Ottenheimer
+  </strong>
+  (
+  <span style=""color: #0000ff;"">
+   <a href=""http://datasens.fr/"" rel=""noopener noreferrer"" style=""color: #0000ff;"" target=""_blank"">
+    datasens
+   </a>
+  </span>
+  ) réalisera une visualisation à partir d’un jeu de données et montrera comment publier le résultat sur un site web.
+ </p>
+ <p>
+  Il n’est pas nécessaire d’être un développeur javascript pour suivre ces présentations et surtout pour tirer profit de l’incroyable collection de notebooks existants prêt à être adapter à vos données ou à vos variations.
+ </p>
+</div>
+"
+32,#32 Mobiliscope – la ville à toute heure !,19,Sept,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/264338910/,https://www.youtube.com/watch?v=nMQ_eFfCaFw&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  <strong>
+   Julie Vallée
+  </strong>
+  @ValleeJulie est géographe au CNRS. Ses travaux concernent les logiques spatiales des inégalités sociales (santé, éducation etc.) dans les villes. Elle s’intéresse notamment à la mobilité quotidienne des populations et aux effets de quartier associés.
+ </p>
+ <p>
+  Julie Vallée vient nous présenter le projet
+  <span style=""color: #0000ff;"">
+   <a href=""https://mobiliscope.parisgeo.cnrs.fr/fr"" style=""color: #0000ff;"">
+    Mobiliscope
+   </a>
+  </span>
+  .
+ </p>
+ <p>
+  Construit à partir des déplacements quotidiens des populations interrogées lors de grandes enquêtes publiques, le Mobiliscope est un outil libre de géovisualisation qui donne à voir la population présente en ville au cours des 24 heures de la journée. Pour plus de vingt villes françaises, il révèle comment les quartiers, leur composition sociale et la ségrégation évoluent au fil des heures selon la mobilité quotidienne des populations
+ </p>
+ <p>
+  <span style=""color: #000000;"">
+   L’agglomération de Toulouse
+  </span>
+  fait partie des jeux de
+  <span style=""color: #0000ff;"">
+   <a href=""https://mobiliscope.parisgeo.cnrs.fr/fr/geoviz/toulouse"" style=""color: #0000ff;"">
+    données explorables
+   </a>
+   .
+  </span>
+  <br/>
+  Un parfait prolongement de notre Hackaviz 2019. Venez nombreux découvrir ce travail remarquable et poser vos questions: enquêtes, données publiques, statistiques, dataviz, UX, …
+ </p>
+</div>
+"
+31,#31 From Data to Viz : Comment choisir la bonne représentation pour ses données ?,13,Juin,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/257085547/,https://www.youtube.com/watch?v=IKnkU9rFqCE&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Quelles sont les meilleures représentations pour mes données ? Quels types de représentations sont possibles pour mon type de données ? Quels sont les pièges à éviter ?
+ </p>
+ <p>
+  Yan Holtz viendra spécialement de Montpellier répondre à ces questions (et aux vôtres !) . Il nous présentera les fondations, les principes et le fonctionnement de son site
+  <span style=""color: #0000ff;"">
+   <a href=""https://www.data-to-viz.com/"" style=""color: #0000ff;"">
+    data-to-viz.com
+   </a>
+  </span>
+  , un site qui permet de guider toute personne travaillant sur des données vers la représentation graphique la plus appropriée.
+  <br/>
+  Vous repartirez donc de ce Meetup avec plein d’idées neuves, de meilleures pratiques de visualisation, des codes R, Python, et D3.js à tester sur vos données !
+ </p>
+ <p>
+  Bio :
+  <br/>
+  <strong>
+   Yan Holtz
+  </strong>
+  est un développeur de solutions pour la visualisation de données, basé à Montpellier. Après un séjour à l’University of Queensland (Australie), il travaille aujourd’hui pour Datadog.
+  <br/>
+  Son intérêt pour la dataviz l’a conduit à créer plusieurs sites sur le sujet dont les galeries pour R, Python et D3 et, plus récemment
+  <a href=""https://www.data-to-viz.com/"">
+   data-to-viz.com
+  </a>
+  .
+  <br/>
+  twitter:
+  <span style=""color: #0000ff;"">
+   <a href=""https://twitter.com/r_graph_gallery?lang=fr"" style=""color: #0000ff;"">
+    @R_Graph_Gallery
+   </a>
+  </span>
+ </p>
+</div>
+"
+30,#30 L’hackaviz 2019 le retour !,16,Mai,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/257085547/,,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Ce meetup sera dédié à la présentation des contributions de l’hackaviz 2019. Chaque contributeur est invité, s’il le souhaite, à venir nous raconter son histoire graphique et partager son expérience de l’hackaviz.. Tous les membres du meetup sont bien entendu conviés à cette soirée d’échange qui leurs permettra de découvrir toute la richesse de ces travaux.
+  <br/>
+  Nous souhaiterions que les participants de l’hackaviz qui ont l’intention de présenter leur contribution nous le signalent par mail à contact@toulouse-dataviz.fr.
+  <br/>
+  Suivant le nombre de personnes, nous adapterons le programme de la soirée mais l’idée serait de laisser la parole à chacun 15’ minutes max (présentation + questions).
+  <br/>
+  Venez nombreux à ce meetup qui va être très enrichissant !
+ </p>
+</div>
+"
+29,#29 Remise des prix de l’hackaviz 2019 – Hackaviz party,4,avr,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/257085547/,,"
+Conseil Départemental de la Haute Garonne 
+1 Bd de la marquette – Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  L’association Toulouse Dataviz (TDV) organise son « Hackaviz ». Concours de visualisation de données en temps limité, seul ou en équipe, doté de récompenses, ouvert à un très large public. Raconter une histoire avec des graphiques à partir d’un jeu de données original seul ou en équipe. A partir du moment ou les données sont mises à disposition, les candidats ont 10 jours pour rendre leur création. Date de mise à disposition des données :
+  <strong>
+   21 Mars 2019.
+  </strong>
+  Date limite de remise des contributions :
+  <strong>
+   31 mars 2019.
+  </strong>
+  Date de l’événement de remise des prix :
+  <strong>
+   4 Avril 2019
+  </strong>
+ </p>
+</div>
+"
+28,#28 Créer des cartes avec QGIS et des open data.,21,fev,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/257085547/,https://www.youtube.com/watch?v=6bprnj6Cn3o&t=227s&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  Les cartes vous fascinent et vous rêvez de créer les vôtres. C’est aujourd’hui possible grâce à la disponibilité de nombreuses données ouvertes (open data) géo localisées et à l’accès à des logiciels libres tels que QGIS (Quantum Geographic Information System).
+  <br/>
+  Les fichiers open data sous les formats .shp ou .geojson sont facilement exploitables avec QGIS sans avoir à écrire de lignes de code. Lors de ce meetup, nous dérouleront tout le processus de réalisation d’une carte en partant des données brutes. Vous pourrez ainsi vous rendre compte de la facilité d’utilisation de l’outil et aussi avoir un aperçu de ses nombreuses potentialités.
+ </p>
+ <p>
+  <strong>
+   Alain Ottenheimer
+  </strong>
+  (datasens.fr)
+ </p>
+</div>
+"
+27,#27 Visualisation interactive gratuite pour les réseaux et les matrices de Bertin,10,Jan,2019,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/257085547/,https://www.youtube.com/watch?v=1evcDAOzWE8&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+</div>
+<div class=""description"">
+ <p>
+  <strong>
+   Comment visualiser les réseaux dans l’espace et dans le temps ? The Vistorian
+  </strong>
+  La recherche académique a parfois besoin d’outils de représentation de données spécifiques à un champ d’application. The Vistorian est né du besoin d’historiens et de chercheurs en Sciences Humaines et Sociales de représenter visuellement des réseaux dans l’espace et dans le temps. Nous illustrerons l’utilisation de cet outil pour visualiser des relations épistolaires échelonnées dans le temps entre individus distants géographiquement. Cette possibilité est désormais offerte à tous grâce à une plateforme web et open-source que nous testerons présentant des représentations de réseaux originales, mais compréhensibles par tous. Un tour de force.
+  <strong>
+   Comment voir des tables ? The Bertifier
+  </strong>
+ </p>
+ <p>
+  Jacques Bertin n’est pas seulement le génial auteur de « La sémiologie graphique (1967) », c’était aussi un homme pragmatique qui « faisait » des graphiques. Il proposa en 1975 une méthode d’analyse de « matrices de données » d’une grande simplicité, non destructrice des données et très accessible visuellement. A l’occasion de la conférence IEEE VIS de 2014 en l’honneur de Jacques Bertin, une équipe de l’INRIA a donné vie à un outil, le « Bertifier », simple et en ligne qui permet de visualiser des tables sans en changer le contenu, en utilisant un encodage visuel pertinent et un ordonnancement intelligent. Un outil utilisable par tous et aux vertus pédagogiques immenses.
+ </p>
+ <p>
+  <strong>
+   Christophe Bontemps
+  </strong>
+  est ingénieur de recherche (économétrie) à Toulouse School of Economics (INRA). Il enseigne la visualisation des données depuis plusieurs années et est coorganisateur du Metup Toulouse Dataviz.
+ </p>
+</div>
+"
+26,#26 La dataviz en action,7,Nov,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/255945404/,https://www.youtube.com/watch?v=DRhsLXg_fiQ&t=3s&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ 1 – un exemple du processus de création d’une visualisation de données“Au travers d’un retour d’expérience sur le Hackaviz 2018, Edith Maulandi vous fera vivre son processus de création d’une visualisation de données, et vous partagera ses essais, ses erreurs et ses apprentissages pour vous faire gagner du temps sur vos prochaines dataviz ! Édith vous partagera aussi des ressources pour monter en compétence et quelques astuces pour expérimenter et démarrer dès ce soir
+</div>
+<div class=""description"">
+ <strong>
+  Édith Maulandi
+ </strong>
+ , freelance dataviz &amp; design de l’information, 1er prix Hackaviz 2018, bénévole Viz4SocialGood, consultante IT &amp; management dans une vie précédente.
+</div>
+"
+25,#25 La représentation des données en neuroscience cognitive,17,Oct,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/255276950/,,"
+Etincelle Coworking (Alsace Lorraine)
+36 rue Alsace Lorraine · Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Parallèlement aux évolutions technologiques de ces vingts dernières années, l’étude du fonctionnement cérébral a suivi un essor tant dans les approches techniques que méthodologiques.
+ <br/>
+ Cet essor qualitatif et quantitatif des données neurophysiologiques a permis le développement de nouvelles approches dans le traitement de ces données et a nécessité de nouveaux outils de visualisation. Nous proposons de partager avec vous cette histoire en l’abordant du point de vue du chercheur en neurosciences cognitives, qui se doit de représenter rigoureusement les données tout en les rendant accessibles. Nous verrons qu’atteindre cet équilibre est complexe et qu’il nécessite des échanges allant au-delà des neurosciences cognitives, qui passe non seulement par des échanges entre disciplines scientifiques mais aussi par l’éducation des non-initiés.
+ <strong>
+  Manuel Mercier
+ </strong>
+ et
+ <strong>
+  Yseult Hejja-Brichard
+ </strong>
+ , chercheurs en Neurosciences cognitives et comportementales au Centre de Recherche Cerveau et Cognition (CerCo).
+</div>
+"
+24,#24 lightning talks,5,Jui,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/252022410/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ 1- Vega/ Vega Lite est une bibliothèque de création de visualisations unique en son genre. Au lieu de « programmer » le diagramme, il faut le « spécifier » dans un langage graphique de haut niveau étonnement concis et puissant. La syntaxe JSON est un peu verbeuse mais on s’y fait rapidement. Le diagramme statique ou dynamique obtenu est facilement imprimable en SVG ou intégrable à une page web. Vega jouit d’une excellente réputation et emporte un succès grandissant. Alain Roan présente les principes fondamentaux de cette bibliothèque étonnante et pas comme les autres.
+ <strong>
+  Alain Roan
+ </strong>
+</div>
+<div class=""description"">
+ 2- Construire un jeu de données à partir de plusieurs fichiers n’est pas toujours un exercice simple. L’exemple du jeu de données préparé pour l’hackaviz 2018 est un bon cas d’école. Nous avons utilisé les outils Python, mysql et qgis, pour extraire les données, les traiter, les regrouper et les formater en .csv et .geojson. A partir de cet exemple, nous partagerons notre expérience pour vous permettre de créer vos propres jeux de données. (speaker Alain Ottenheimer).3- Une petite sélection de livres/ressources/ blogs sur la data visualisation pour lire utile en vacances..
+</div>
+"
+23,#23 React et d3js,12,Juin,2018,https://www.meetup.com/fr-FR/d3-js-Toulouse/events/250743201/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ React and d3jsLes deux sont de bons outils pour le développeur webReact (2013) et D3 (2011) sont deux contributions majeures au développement javascript et à l’UX. Vous n’aurez pas de difficultés à trouver des centaines de milliers de développeurs pour en témoigner.D3 et React ne jouent pas dans la même catégorie:React vise à fournir un framework de composants réutilisables de gestion d’interface web sous forme d’un langage qui combine html et javascript: JSX.
+ <br/>
+ D3 est une technologie de manipulation/ affichage de données et d’assemblage de composants pour la visualisation dans le navigateur.
+ <br/>
+ Ces deux là étant les plus populaires dans leurs domaines, ils devraient former un couple fantastique…
+ <br/>
+ Il faut les marier !! Mais il y a un éléphant dans la salle de mariage: C’est le DOM.
+ <br/>
+ D3 le met à jour directement de manière parfois très étroite et subtile comme dans les transitions par exemple.
+ <br/>
+ React gère un DOM « virtuel » qui simplifie et optimise l’affichage et le rafraîchissement.
+ <br/>
+ Ou les Pacser ?
+ <br/>
+ Quelles sont les approches possibles ? Il en existe plusieurs qui possèdent chacune leurs avantages et leurs défauts.
+ <br/>
+ <strong>
+  Alain Roan
+ </strong>
+</div>
+"
+22,#22 Data-Driven Storytellling,15,Mai,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/250012578/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ <span style=""color: #0000ff;"">
+  <a href=""http://recherche.enac.fr/~hurter/"" rel=""noopener noreferrer"" style=""color: #0000ff;"" target=""_blank"">
+   Christophe Hurter
+  </a>
+ </span>
+ , professeur à l’Ecole Nationale de l’Aviation civile et responsable de l’axe visualisation de données va venir présenter son
+ <span style=""color: #0000ff;"">
+  <a href=""https://www.amazon.com/Data-Driven-Storytelling-AK-Peters-Visualization/dp/1138197106/ref=sr_1_1?ie=UTF8&amp;qid=1524210857&amp;sr=8-1&amp;keywords=christophe+hurter"" rel=""noopener noreferrer"" style=""color: #0000ff;"" target=""_blank"">
+   livre
+  </a>
+ </span>
+ « Data-Driven Storytellling ».Cet ouvrage est issu d’un processus collaboratif de plus de deux ans avec des journalistes, des chercheurs en visualisation et en traitement de données. Ce livre parcours le traitement de la donnée partant de sa collecte pour en arriver à sa publication. Cet ouvrage est à destination des étudiants, des enseignants, des praticiens et des curieux de la DataVis.
+</div>
+"
+21,#21,21,Mar,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/246640810/,,"
+HarryCow
+13 rue sainte Ursule
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ L’équipe du Meetup Visualisation des Données de Toulouse a le plaisir de vous informer du lancement de son premier “Hackaviz” — concours de visualisation en temps limité, doté de récompenses, ouvert à un très large public — qui se déroulera du 9 au 19 mars et se conclura par un Meetup exceptionnel de remise des prix le mercredi 21 mars.Inscrivez-vous, seul ou en équipe, et relevez le défi pour créer la meilleure histoire en dataviz à partir d’un jeu de données original, créé pour l’évènement.Les inscriptions (
+ <span style=""color: #0000ff;"">
+  <a href=""http://toulouse-dataviz.fr/?page_id=11"" style=""color: #0000ff;"">
+   http://toulouse-dataviz.fr/?page_id=11
+  </a>
+ </span>
+ ) sont d’ores et déjà ouvertes sur notre nouveau site internet ou vous trouverez toutes les informations pratiques. N’hésitez pas à partager cette information auprès de vos collègues, écoles, institutions pour faire vivre cet évènement.Merci !Permettez-nous de vous remercier de votre participation lors des précédents Meetups. Nous sommes aujourd’hui plus de 900 membres toujours plus curieux de découvrir la visualisation sous ses angles les plus variés. Grâce à vous, nous avons organisé 18 Meetups depuis notre création fin 2015, faisant interagir une vingtaine d’intervenants sur les concepts et outils de la Dataviz, mais aussi sur son utilisation dans l’entreprise, dans les médias, sur le web, pour les professionnels, pour le monde académique, pour la recherche, pour les collectivités …Notre but est de construire, d’animer et de faire vivre une communauté autour de la visualisation de données sur Toulouse. Notre nouveau site web (http://toulouse-dataviz.fr/) vous permettra de retrouver tous ces évènements ainsi que de nombreuses ressources.Et toujours des Meetups en 2018 !Outre ce « Hackaviz », notre premier sponsor nous permettra d’organiser de nouveaux moments de convivialité à l’issue des Meetups qui jalonneront cette année 2018. De quoi alimenter nos discussions et confronter nos regards sur la Dataviz dans une ambiance décontractée.Venez nous rejoindre le mercredi 21 mars pour un Meetup exceptionnel de remise des prix du premier « Hackaviz » !
+</div>
+<div class=""description"">
+ <p>
+ </p>
+ <ul>
+  <li>
+   <a href=""http://toulouse-dataviz.fr/?page_id=607"" rel=""noopener noreferrer"" target=""_blank"">
+    <span style=""color: #0000ff;"">
+     Les résultats
+    </span>
+   </a>
+  </li>
+  <li>
+   <a href=""http://toulouse-dataviz.fr/?page_id=434"" rel=""noopener noreferrer"" target=""_blank"">
+    <span style=""color: #0000ff;"">
+     Le jeu de données
+    </span>
+   </a>
+  </li>
+ </ul>
+</div>
+"
+20,#20 Faire du d3.js en 2018: quels outils ? quels tutoriels ? … et pourquoi faire ?,28,Fev,2018,https://www.meetup.com/fr-FR/d3-js-Toulouse/events/247745955/,,"
+Etincelle Coworking
+36 rue Alsace Lorraine · Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Au programme
+ <br/>
+ Ouvert à tous quelque soit son niveau: gourou d3js ou encore soupçonneux de javascript comme langage de programmation sérieux. L’ordre du jour prévoit:
+ <br/>
+ * de balayer quelques unes des leçons d’initiation à d3js à l’aide de fragments de code qui “font bouger les graphes”.
+ <br/>
+ * de parler de l’actualité d3 et javascript avec un focus sur la dernière contribution de Mike Bostock (l’auteur de d3) à savoir: https://observablehq.com/
+ <br/>
+ * d’accueillir les présentations de pratiquants d3 qui, sous un format court (10 min), démontrent leurs réalisations à condition de répondre aux questions.
+</div>
+"
+19,#19 La data visualisation pour la data science (et les data scientists),16,Jan,2018,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/246640810/,https://www.youtube.com/watch?v=flS31pforxU&ab_channel=ToulouseDataViz,"
+Harry Cow
+13 rue sainte Ursule
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Tour d’horizon pratique des méthodes et des graphiques qui permettent de visualiser efficacement différents types de données. Il faudra pour cela suivre quelques règles, puisées dans la littérature (statistique, graphisme, psychologie)… pour mieux s’en affranchir, parfois !
+</div>
+"
+18,#18 Histoires de dataviz,12,Dec,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/245529703/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Témoignages de membres
+</div>
+"
+17,#17 Initiation au package “Shiny” de R,27,Nov,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/244635458/,https://www.youtube.com/watch?v=IEhE3DPmlfk&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ «Shiny is good for you ! », telle pourrait être la devise de cet outil de création de visualisations interactives, tant il est facile de se l’approprier. Je vous propose une introduction ludique et pratique à shiny – l’un des packages les plus incroyables et probablement le plus vivant de la communauté R. Il suffit en effet de quelques minutes pour créer et déployer sur le web une application shiny qui permettra d’interagir avec n’importe quel type de graphique (ou table, ou texte) créé sous R. Ce Meetup est bâti sur un atelier de formation que j’ai animé récemment pour un public ne connaissant pas R et est donc accessible à tous.
+</div>
+"
+16,#16 Data visualisation : témoignage d’entreprises,26,Oct,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/243864744/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ <strong>
+  Mathilde de Sulzer Wart
+ </strong>
+ (Sogefi)
+</div>
+<div class=""description"">
+ Titre :Quels sont les vrais outils de l’aide à la décision des décideurs des collectivités ruralesDescription : le paysage des communautés de communes évolue, les territoires s’agrandissent, la liste des compétences s’allonge. Bien que la donnée se libère, comment trouver les outils accessibles et adaptés pour la gouvernance des territoires en milieu rural. Retour sur un retour d’expérience de 28 ans auprès des collectivités.
+</div>
+"
+15,#15 Lightning talks (2),26,Sep,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/243063159/,https://www.youtube.com/watch?v=DoMu8aPV4gA&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+",
+14,#14 La 3D sur le web,29,Juin,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/240732934/,,"
+La Cantine
+27 rue d’Aubuisson 31000 Toulouse
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ 3 groupes meetup Visualisation de données Toulouse, Toulouse Game Dev, Khronos Toulouse chapter et se réunissent pour organiser cette rencontre. Adrien Coffre, développeur WebGL, nous présentera un état de l’art complet de cette technologie agrémenté de nombreux exemples :
+ <br/>
+ – Technique (Khronos chapter) : WebGL1, WebGL2, Vulkan et API javascript et maturité du hardware grand public
+ <br/>
+ – Data : Visualisation de données avec les bibliothèques webgl spécialisée (Deck.GL)
+ <br/>
+ – Webdev et Gamedev : Les environnements de développement webgl : ThreeJS, BabylonJS, Unity, UE, Playcanvas, Clara.io…
+ <br/>
+ – Les configurateurs 3D : ou comment configurer sa voiture, sa maison ou son futur quartier sur le web…
+ <br/>
+ Et en conclusion quelques perspectives sur les applications de réalité augmentée, de réalité virtuelle et de machine learning sur site web.
+</div>
+"
+13,#13 La datavisualisation en stimulant l’imagination,13,Juin,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/239533539/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Améliorer l’efficacité de la datavisualization en stimulant l’imagination, quelques pistes.Dans une période où se multiplient les données et les outils pour les analyser et les représenter, la question de la méthode de cette représentation et de son public se pose. Représente-t’on pour un opérateur spécialisé qui lit un tableau de bord complexe ou plutôt pour un lecteur lambda qu’il faut d’abord intéresser puis captiver ? Face à la multiplication des infographies et à la standardisation visuelle apportée par les logiciels courants, il est utile de se demander comment rendre les infographies plus éloquentes, plus captivantes, pour un public plus large, en dépassant le simple intérêt de l’originalité. Une des pistes consiste à chercher à stimuler l’imagination du lecteur, sa capacité à imaginer à partir des informations qu’on lui fournit, en lui proposant un contenu riche, profond. Pour ce faire, il existe notamment des techniques tirées de la critique d’art, de la sémiotique ou de l’esthétique. On proposera quelques exemples de méthodes d’analyse et de création qui peuvent guider la réalisation : palettes et dégradés de couleurs, mesure et atténuation de la complexité visuelle, utilisation de styles picturaux, souvent disponibles sous la forme d’outils pratiques.
+</div>
+"
+12,#12 Lightning talks,18,Avr,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/238794499/,https://www.youtube.com/watch?v=NKUPwZw1I3w&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ <em>
+  La datavisualization avec P5.js (Alain Ottenheimer)
+ </em>
+ Vous connaissez D3.js mais avez-vous déjà entendu parlé de P5.js ? P5.js est une librairie qui est une émanation javascript de Processing. Cette librairie est particulièrement appréciée des codeurs designers, graphistes et créatifs mais pas seulement. Nous verrons à partir de quelques exemples ce que peut apporter cette librairie et comment la situer dans l’environnement de la visualisation de données
+</div>
+<div class=""description"">
+ <em>
+  Pourquoi il ne faudrait jamais utiliser les radar plots ? (Christophe Bontemps).
+ </em>
+ On trouve souvent des “radar plots” ou “diagrammes en toiles d’araignée » dans des études comparant les performances d’appareils photo, de sociétés ou d’élèves suivant différents critères ou notes. On positionne alors des axes en étoile, une branche pour chacune des variables, et on tisse une « toile » reliant les performances des individus représentés sur ces axes gradués du centre vers l’extérieur (coordonnées polaires). Ces graphiques destinés au difficile problème de la comparaison multicritères se sont imposés dans différents médias par leur grande simplicité. Ces représentations révèlent cependant de très mauvaises surprises que nous illustrerons sur un petit exemple. Vous laisserez vous prendre dans la toile ?.
+</div>
+"
+11,#11 Comment fait-on des cartes?,28,Mars,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/238301970/,,"
+Ekito
+15 Rue Gabriel Péri, 31000 Toulouse, France · Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Passer des données à une visualisation est un exercice difficile, surtout lorsque ces données comportent des informations géolocalisées que l’on cherche à représenter dans un repère familier. Il faut alors créer des cartes, ce que l’homme a longtemps fait à la main et que de nombreux logiciels nous permettent de faire facilement aujourd’hui d’un clic. Mais comment fait-on une carte ? Quelles sont les étapes de traitement des données, des fonds de cartes, pour arriver au résultat? Quelles règles doit-on respecter pour créer des cartes pertinentes, lisibles, et révélant l’information spatiale ?Thibaut Laurent, statisticien au CNRS et spécialiste de la statistique spatiale, nous propose quelques pistes pour répondre à ces questions. En s’appuyant sur ses réalisations et son expérience, il sera notre guide d’un soir au pays des cartes…..
+</div>
+"
+10,#10 Cartes et réseaux: Pourquoi et comment les visualiser?,31,Jan,2017,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/236820275/,https://www.youtube.com/watch?v=HWzpY5cOtYI&t=3s&ab_channel=ToulouseDataViz,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ D’innombrables plateformes, journaux, tableaux de bord, blogs, articles scientifiques utilisent des données géolocalisées ou de réseau pour leurs analyses. Beaucoup ont alors recours à des visualisations à base de cartes et de réseaux. Mais est-ce bien la meilleure façon d’appréhender l’information contenue dans ces données ? Pourquoi représenter ces données (géolocalisées ou de réseau) sous forme de cartes ou d’ un ensemble de lignes entrelacées ? Au-delà de ces questions fondamentales que Christophe Bontemps (Toulouse School of Economics) illustrera par des exemples concrets, il vous proposera un tour d’horizon critique de la visualisation des cartes et des réseaux, des représentations classiques et moins classiques, des méthodes et des outils. Il s’appuiera pour cela sur quelques fondamentaux de la visualisation de données ainsi que sur des travaux en cours sur la représentation des réseaux. En particulier, nous interrogerons les différentes règles de représentation des réseaux et essaierons de décoder les éléments visuels utilisés (nœuds, arcs, couleurs, taille…) et d’affiner notre compréhension de ces représentations.
+</div>
+"
+9,#9 Data visualisation : témoignages d’entreprises,15,Dec,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/235819612/,,"
+Harry Cow
+13 rue sainte Ursule
+Toulouse
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Vous avez été nombreux à vous déclarer très intéressés par le témoignage d’entreprises. Le meetup a invité trois entreprises Makina-Corpus (
+ <span style=""color: #3366ff;"">
+  <a class=""link"" href=""https://makina-corpus.com/"" rel=""noopener noreferrer"" style=""color: #3366ff;"" target=""__blank"" title=""https://makina-corpus.com/"">
+   https://makina-corpus.com/
+  </a>
+  )
+ </span>
+ , Squoring (
+ <span style=""color: #3366ff;"">
+  <a class=""link"" href=""http://www.squoring.com/"" rel=""noopener noreferrer"" style=""color: #3366ff;"" target=""__blank"" title=""http://www.squoring.com/"">
+   http://www.squoring.com/
+  </a>
+ </span>
+ ) et flightwatching (
+ <span style=""color: #3366ff;"">
+  <a class=""link"" href=""http://www.flightwatching.com/"" rel=""noopener noreferrer"" style=""color: #3366ff;"" target=""__blank"" title=""http://www.flightwatching.com/"">
+   http://www.flightwatching.com/
+  </a>
+ </span>
+ ) qui vous présenteront leurs activités. A partir de ces témoignages, nous débattons avec les intervenants sur les applications concrètes de la visualisation de données dans leurs entreprises.
+</div>
+"
+8,#8 Data journalisme,24,Nov,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/234987302/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Pierre Vincelot (journaliste et spécialiste du web et du numérique) et Xavier Lelu (journaliste chef de projet chez coté Toulouse) seront nos invités pour nous expliquer et débattre avec nous des enjeux du data journalisme : Effet de mode ou changement profond de l’approche journalistique ? Qu’apporte la visualisation de données aux journalistes et aux lecteurs ? Quelles sont les sources de données ? Quels arbitrages entre « fouille de données » et « représentation résumée » de l’information ? Quels sont les avantages et les inconvénients des visualisations statiques et dynamiques ? Quels sont les outils des data journalistes Comment se forment les journalistes à la data ? Comment les data Journalistes travaillent-ils avec les data scientists et les développeurs de graphisme? Quel sont les enjeux des couts de réalisation ? …
+</div>
+"
+7,#7 Visualisation de données et outils de business intelligence,15,Sep,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/232473218/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Aujourd’hui, les outils de business intelligence permettent de réaliser des analyses et des visualisations de données très performantes sans avoir à écrire de lignes de codes. Ils offrent pour la plupart un grand choix de représentations visuelles et la possibilité de réaliser des tableaux de bord dynamiques partageables sur le web. Après une description générale du principe de fonctionnement de ces outils, une présentation d’un cas concret à partir d’une base de données de production électrique de panneaux photovoltaïques permettra de montrer tout l’intérêt de ce type d’outils. Intervention par Alain O et Alain R
+</div>
+"
+6,#6 Techniques interactives d’exploration de grandes quantités de données,31,Mai,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/230636649/,,"
+La Cantine
+27 rue d’Aubuisson 31000 Toulouse
+Toulouse
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Auparavant, la collecte et le stockage de données soulevaient de nombreux problèmes techniques. Aujourd’hui, la recherche s’intéresse à l’exploitation de ces grandes quantités de données (Big Data) pour en extraire des connaissances. L’utilisateur devient l’acteur principal pour l’exploration des données avec, comme outil, la visualisation interactive. Il exploite ainsi l’ordinateur pour sa puissance de calcul et d’affichage. Toutefois l’extraction de connaissances et la prise de décision reste à sa charge. Je présenterais les résultats de la recherche dans cette direction au travers de démos logiciels.Christophe Hurter est notre intervenant. Il est actuellement enseignant chercheur à l’ENAC. Sa recherche et ses enseignements s’articulent autour de la visualisation interactive de données. Il travaille depuis plus de 20 ans dans le domaine aéronautique. Il a l’opportunité de partager ses connaissances avec des étudiants du monde entier et aussi avec les acteurs académiques et les professionnels du domaine.
+</div>
+"
+5,"#5 Exploration interactives de données avec les librairies d3.js, dc.js et crossfilter.js ",13,Avr,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/229825321/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Construire un explorateur de données visuel et interactif permet de donner les moyens aux utilisateurs de découvrir des informations et de répondre à leurs questionnements au gré de leurs interactions avec l’outil. Alain Ottenheimer présentera une démarche pour réaliser un explorateur à partir d’un exemple concret.
+</div>
+"
+4,#4 Data visualisation pour les data sciences : Principes en action !,16,Mars,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/229037863/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ La visualisation est un élément important de la compréhension et de la (re)présentation des données dans les (data) sciences. Elle repose sur des principes et des outils que Christophe Bontemps (Toulouse School of Economics) décryptera à la lumière de son expérience et de ses lectures.
+</div>
+"
+3,#3 La pratique de la visualisation de données !,10,Fev,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/228176843/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Visualisation de données: quelques évidences bonnes à rappeler mais aussi les questions à se poser avant de « lâcher » sa créativité esthétique. Alain Roan (
+ <span style=""color: #3366ff;"">
+  <a class=""link"" href=""http://perceptible.fr"" rel=""noopener noreferrer"" style=""color: #3366ff;"" target=""__blank"" title=""http://perceptible.fr"">
+   http://perceptible.fr
+  </a>
+ </span>
+ ) présentera des exemples académiques et certaines de ses propres réalisations.
+ <br/>
+ Discussion fortement recommandée.
+ <br/>
+ La visualisation de données vous passionne, vous avez une idée, un projet ou une actualité que vous souhaiteriez partager, vous recherchez des contacts des compétences. Ce créneau est aussi pour vous……
+</div>
+"
+2,#2 Introduction à la librairie d3.js. Exemple de réalisation,12,Jan,2016,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/227206025/,,"
+Etincelle Coworking (Wilson)
+2 rue d’Austerlitz, Toulouse
+Toulouse
+Métro Jean Jaurès (ligne A / B)
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ D3 ( Data-Driven Documents) est une bibliothèque graphique java script qui permet l’affichage de données numériques sous une forme graphique et dynamique1-Introduction à la librairie java script d3.js (par Pierre-Yves)2- Exploration interactive des données opendata de Toulouse (métropole) avec d3.js. (par Pierre-Yves)La visualisation de données vous passionne, vous avez une idée, un projet ou une actualité que vous souhaiteriez partager, vous recherchez des contacts des compétences. Ce creneau est pour vous……
+</div>
+"
+1,#1 Faire connaissance et choisir les thèmes des rencontres,1,Dec,2015,https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/events/226698037/,,"
+La Cantine
+27 rue d’Aubuisson 31000 Toulouse
+Toulouse
+ 
+","<div class=""description"">
+ <b>
+  Description :
+ </b>
+ <br/>
+ Pour cette première rencontre, je vous propose de faire connaissance et d’échanger sur nos attentes pour établir des thèmes des prochains meetup (ex : présentation d’outils de visualisation, développement logiciel, actualités, présentation de réalisation ou de projet, atelier, formation, partage d’expérience….)
+</div>
+"
