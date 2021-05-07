@@ -7,6 +7,8 @@ import { Grid, Box } from '@material-ui/core';
 import useMembers from '../hooks/useMembers';
 import usePics from '../hooks/usePics';
 
+import { getPic } from '../helper';
+
 const useStyles = makeStyles(theme => ({
   imageContainer: {
     width: 200,
@@ -24,12 +26,11 @@ const Members = () => {
 
   const members = useMembers();
   const teamPics = usePics().filter(({ relativeDirectory }) => relativeDirectory === 'team-pics');
-  const getPic = (myName) => teamPics.find(({ name }) => myName === name)?.gatsbyImageData;
   
   return (
     <Grid container>
       {members.map(({ nom, pic_name, nom_site, lien_site, linkedin, twitter }) => {
-        const memberPic = getPic(pic_name);
+        const memberPic = getPic(teamPics, pic_name);
 
         return (
           <React.Fragment key={nom}> 

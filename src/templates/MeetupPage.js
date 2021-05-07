@@ -12,6 +12,7 @@ import Gallery from '../components/Gallery';
 
 import useMeetups from '../hooks/useMeetups';
 import usePics from '../hooks/usePics';
+import { getVideoEmbedId } from '../helper';
 
 const useStyles = makeStyles(theme => ({
   meetupnavitem: {
@@ -38,10 +39,7 @@ const MeetupPage = ({
     return relativeDirectory === 'meetup-pics' && name.match(/(\d*)_.*/)[1] === meetupid
   });
 
-  const regexpVideoId = /v=(.*?)&/;
-  const videoEmbedId = videoLink 
-    ? videoLink.match(regexpVideoId)[1]
-    : null ;
+  const videoEmbedId = getVideoEmbedId(videoLink);
 
   return (
     <Layout>
