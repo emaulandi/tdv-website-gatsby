@@ -8,8 +8,10 @@ import { makeStyles } from '@material-ui/core/styles';
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import YoutubeEmbed from '../components/YoutubeEmbed';
+import Gallery from '../components/Gallery';
 
 import useMeetups from '../hooks/useMeetups';
+import usePics from '../hooks/usePics';
 
 const useStyles = makeStyles(theme => ({
   meetupnavitem: {
@@ -31,6 +33,10 @@ const MeetupPage = ({
   const currentMeetupid = parseInt(meetupid);
   const meetups = useMeetups();
   const lastMeetupId = Math.max(...meetups.map(({ meetupid }) => meetupid));
+
+  const meetupPics = usePics().filter(({ relativeDirectory, name }) => {
+    return relativeDirectory === 'meetup-pics' && name.match(/(\d*)_.*/)[1] === meetupid
+  });
 
   const regexpVideoId = /v=(.*?)&/;
   const videoEmbedId = videoLink 
@@ -65,10 +71,14 @@ const MeetupPage = ({
             <div className={classes.description}
               dangerouslySetInnerHTML={{ __html: descriptionHtml }}
             />
+
+            {meetupPics.length > 0 && (
+              <Gallery picsToDisplay={meetupPics} />
+            )}
             {videoLink && (
               <div>
                 <div>
-                  <a href={videoLink}  target="_blank" className="button medium">Revoir le meetup</a>
+                  <a href={videoLink}  target="_blank" rel="noreferrer" className="button medium">Revoir le meetup</a>
                 </div>
                 <YoutubeEmbed
                   title={title}

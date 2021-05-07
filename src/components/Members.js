@@ -8,6 +8,9 @@ import useMembers from '../hooks/useMembers';
 import usePics from '../hooks/usePics';
 
 const useStyles = makeStyles(theme => ({
+  imageContainer: {
+    width: 200,
+  },
   image: {
     height: theme.spacing(25),
   },
@@ -40,7 +43,11 @@ const Members = () => {
                   <h5>{nom}</h5>
                 </Grid>
                 <Grid item>
-                  { memberPic && ( <GatsbyImage className={classes.image} image={memberPic} alt={pic_name}/>) }
+                  { memberPic && ( 
+                    <Box className={classes.imageContainer}>
+                      <GatsbyImage className={classes.image} image={memberPic} alt={pic_name}/>
+                    </Box>
+                  )}
                 </Grid>
                 <Grid item>
                   { lien_site 
