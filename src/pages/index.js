@@ -1,10 +1,14 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
+
+import { Box } from '@material-ui/core';
+
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
 import useSiteMetadata from '../hooks/useSiteMetadata'
 import useHomeContent from '../hooks/useHomeContent'
+import Gallery from '../components/Gallery'
 
 const HomeIndex = () => {
   const { headerTitle, headerSubtitle } = useSiteMetadata();
@@ -23,7 +27,16 @@ const HomeIndex = () => {
 
       <Banner />
 
-      <div id="main">
+      <div id="main">       
+
+        <section id="two" class="spotlights">
+          <div className="inner">
+            <Gallery
+              type={'small'}
+            />
+          </div>
+        </section>
+
         <section id="one" className="tiles">
 
           {homeContentCsv.map(({ title, subtitle, slug }, index) => {
