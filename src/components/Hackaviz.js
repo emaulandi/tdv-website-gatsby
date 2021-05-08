@@ -10,6 +10,7 @@ import useHackavizParticipants from '../hooks/useHackavizParticipants';
 import usePics from '../hooks/usePics';
 
 import YoutubeEmbed from '../components/YoutubeEmbed';
+import Button from '../components/Button';
 import { getVideoEmbedId, getPic } from '../helper';
 
 const useStyles = makeStyles(theme => ({
@@ -58,9 +59,10 @@ const Hackaviz = () => {
           </Grid>
           {videoLink && (
             <Grid item xs={6}>
-              <div>
-                <a href={videoLink}  target="_blank" rel="noreferrer" className="button medium">Revoir la remise des prix</a>
-              </div>
+              <Button
+                link={videoLink}
+                text={"Revoir la remise des prix"}
+              />
               <YoutubeEmbed
                 title={hackaviz}
                 embedId={videoEmbedId}

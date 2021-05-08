@@ -9,6 +9,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import YoutubeEmbed from '../components/YoutubeEmbed';
 import Gallery from '../components/Gallery';
+import Button from '../components/Button';
 
 import useMeetups from '../hooks/useMeetups';
 import usePics from '../hooks/usePics';
@@ -75,9 +76,10 @@ const MeetupPage = ({
             )}
             {videoLink && (
               <div>
-                <div>
-                  <a href={videoLink}  target="_blank" rel="noreferrer" className="button medium">Revoir le meetup</a>
-                </div>
+                <Button
+                  link={videoLink}
+                  text={'Revoir le meetup'}
+                />
                 <YoutubeEmbed
                   title={title}
                   embedId={videoEmbedId}

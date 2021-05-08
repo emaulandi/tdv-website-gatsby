@@ -7,6 +7,7 @@ import { Grid, Box } from '@material-ui/core';
 import useMembers from '../hooks/useMembers';
 import usePics from '../hooks/usePics';
 
+import Button from '../components/Button';
 import { getPic } from '../helper';
 
 const useStyles = makeStyles(theme => ({
@@ -52,7 +53,11 @@ const Members = () => {
                 </Grid>
                 <Grid item>
                   { lien_site 
-                    ? (<a href={lien_site} target="_blank" className="button small">{nom_site}</a>)
+                    ? (<Button
+                        link={lien_site}
+                        text={nom_site}
+                        size={'small'}
+                      />)
                     : (<span>{nom_site}</span>)
                   }
                 </Grid>

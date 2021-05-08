@@ -1,5 +1,6 @@
 import PageBanner from '../components/PageBanner';
 import Members from '../components/Members';
+import Button from '../components/Button';
 
 <PageBanner 
     styleId={1}
@@ -26,7 +27,10 @@ Certains citoyens, journalistes, étudiants ou professionnels s’en emparent po
 
 **Notre ambition est d’apprendre à découvrir les vérités enfouies dans les open data, à déjouer les visualisations trompeuses et à convaincre avec des graphiques.**
 
-<a href="http://toulouse-dataviz.fr/presentation_tdv/#/"  target="_blank" className="button medium">Voir la présentation Reveal</a>
+<Button
+  link={"http://toulouse-dataviz.fr/presentation_tdv/#/"}
+  text={"Voir la présentation Reveal"}
+/>
 
 </div>
 </section>
@@ -42,7 +46,11 @@ Certains citoyens, journalistes, étudiants ou professionnels s’en emparent po
 L'association Toulouse Dataviz est soutenue et parrainée par des entreprises locales et par des acteurs institutionnels de l'Occitanie. 
 Nous  développons des tableaux de bord et explorateurs de données sur le web.
 
-<a href="https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/" target="_blank" className="button medium">Rejoingez-nous sur Meetup</a>
+<Button
+  link={"https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/"}
+  text={"Rejoingez-nous sur Meetup"}
+/>
+
 </div>
 </section>
 
@@ -94,10 +102,16 @@ Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et
 Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. 
 Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
 
-<ul className="actions">
-  <li><a href="/sponsors" className="button medium">Découvrez nos sponspors</a></li>
-  <li><a href="mailto:contact@toulouse-dataviz.fr" className="button medium">Devenez sponsors</a></li>
-</ul>
+<Button
+  link={"/sponsors"}
+  type={'internal'}
+  text={"Découvrez nos sponspors"}
+/>
+
+<Button
+  link={"mailto:contact@toulouse-dataviz.fr"}
+  text={"Devenez sponsors"}
+/>
 
 </div>
 </section>
