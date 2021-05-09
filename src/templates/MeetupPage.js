@@ -10,6 +10,7 @@ import Layout from '../components/layout'
 import YoutubeEmbed from '../components/YoutubeEmbed';
 import Gallery from '../components/Gallery';
 import Button from '../components/Button';
+import MarkdownText from '../components/MarkdownText'
 
 import useMeetups from '../hooks/useMeetups';
 import usePics from '../hooks/usePics';
@@ -28,7 +29,10 @@ const useStyles = makeStyles(theme => ({
 }));
 
 const MeetupPage = ({ 
-  data: { meetup: { meetupid, day, month, year, videoLink, title, meetupLink, descriptionHtml } } 
+  data: { 
+    meetup: { meetupid, day, month, year, videoLink, title, meetupLink, 
+    fields: { Markdown: { htmlAst } } },
+  },
 }) => {
   const classes = useStyles();
 
@@ -66,10 +70,15 @@ const MeetupPage = ({
               </Box>
             </Grid>
             <h1>{title}</h1>
+
+            <MarkdownText
+              hast={htmlAst}
+            />
             
-            <div className={classes.description}
+            {/*<div className={classes.description}
               dangerouslySetInnerHTML={{ __html: descriptionHtml }}
             />
+              */}
 
             {meetupPics.length > 0 && (
               <Gallery picsToDisplay={meetupPics} />
@@ -124,7 +133,11 @@ export const pageQuery = graphql`
       month
       meetupLink
       day
-      descriptionHtml
+      fields {
+        Markdown {
+          htmlAst
+        }
+      }
     }
   }
 `;

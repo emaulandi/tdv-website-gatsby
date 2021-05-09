@@ -13,7 +13,12 @@ export const useMeetups = () => {
           month
           meetupLink
           day
-          descriptionHtml
+          day
+          fields {
+            Markdown {
+              htmlAst
+            }
+          }
         }
       }
     }
