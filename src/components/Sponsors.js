@@ -39,7 +39,7 @@ const Sponsors = () => {
                 <Grid item>
                   { sponsorPic && ( 
                     <Box className={classes.imageContainer}>
-                      <a href={link} target="_blank">
+                      <a href={link} target="_blank" rel="noreferrer">
                         <GatsbyImage className={classes.image} image={sponsorPic} alt={pic_name}/>
                       </a>
                     </Box>

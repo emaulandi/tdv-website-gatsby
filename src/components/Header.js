@@ -8,7 +8,7 @@ const Header = ({ onToggleMenu }) => {
     <header id="header" className="alt">
       <Link to="/" className="logo"><strong>{headerTitle}</strong> <span>{headerSubtitle}</span></Link>
       <nav>
-        <a className="menu-link" onClick={onToggleMenu}>Menu</a>
+        <a role="link" tabIndex={0} className="menu-link" onClick={onToggleMenu}>Menu</a>
       </nav>
     </header>
   );

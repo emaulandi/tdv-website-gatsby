@@ -64,10 +64,10 @@ const Members = () => {
                 <Box className={classes.linkicon}>
                   <ul className="icons">
                     { twitter && (
-                      <li><a href={twitter} target="_blank" className="icon alt fa-twitter"><span className="label">Twitter</span></a></li>
+                      <li><a href={twitter} target="_blank" rel="noreferrer" className="icon alt fa-twitter"><span className="label">Twitter</span></a></li>
                     )}
                     { linkedin && (
-                      <li><a href={linkedin} target="_blank" className="icon alt fa-linkedin"><span className="label">Linkedin</span></a></li>
+                      <li><a href={linkedin} target="_blank" rel="noreferrer" className="icon alt fa-linkedin"><span className="label">Linkedin</span></a></li>
                     )}
                   </ul>
                 </Box>

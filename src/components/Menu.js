@@ -17,12 +17,15 @@ const Menu = ({ onToggleMenu }) => {
                 <li key={`menu-li-${index}`}>
                   <Link onClick={onToggleMenu} to={slug}>{title}</Link>
                 </li>
-              )
+              );
+            } 
+            else {
+              return (<></>);
             }
           })}
         </ul>
       </div>
-      <a className="close" onClick={onToggleMenu}>Close</a>
+      <a role="link" tabIndex={0} className="close" onClick={onToggleMenu}>Close</a>
     </nav>
   )
 }

@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
 
   useEffect(() => { 
     setLoading('');
-  });
+  }, []);
 
   const handleToggleMenu = () => {
       setIsMenuVisible(!isMenuVisible);

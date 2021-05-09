@@ -7,11 +7,11 @@ const components = {
   // Map HTML element tag to React component
   h1: props => (
     <header className="major">
-      <h2 {...props}></h2>
+      <h2 {...props}>{ props.children }</h2>
     </header>
   ),
-  iframe: props => (
-    <iframe style={{ backgroundColor: "white" }} {...props} />
+  iframe: (props, i) => (
+    <iframe title={i} style={{ backgroundColor: "white" }} {...props} />
   )
 };
 
