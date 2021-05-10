@@ -8,6 +8,22 @@ import useSiteMetadata from '../hooks/useSiteMetadata'
 import useHomeContent from '../hooks/useHomeContent'
 import Gallery from '../components/Gallery'
 
+import pic01 from '../assets/images/pic01.jpg'
+import pic02 from '../assets/images/pic02.jpg'
+import pic03 from '../assets/images/pic03.jpg'
+import pic04 from '../assets/images/pic04.jpg'
+import pic05 from '../assets/images/pic05.jpg'
+import pic06 from '../assets/images/pic06.jpg'
+
+const backgroundPics = {
+  0: pic01,
+  1: pic02,
+  2: pic03,
+  3: pic04,
+  4: pic05,
+  5: pic06,
+}
+
 const HomeIndex = () => {
   const { headerTitle, headerSubtitle } = useSiteMetadata();
   const homeContentCsv = useHomeContent();
@@ -39,7 +55,7 @@ const HomeIndex = () => {
 
           {homeContentCsv.map(({ title, subtitle, slug }, index) => {
             return (
-              <article key={`article-${index}`}>
+              <article key={`article-${index}`} style={{backgroundImage: `url(${backgroundPics[index]})`}}>
                 <header className="major">
                     <h3>{title}</h3>
                     <p>{subtitle}</p>
