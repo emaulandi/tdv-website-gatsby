@@ -33,6 +33,14 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
+        name: `meetup-description`,
+        path: `${__dirname}/src/content/offres-description`,
+      },
+    },
+    `gatsby-transformer-remark`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
         name: `data`,
         path: `${__dirname}/src/data/`,
       },
@@ -63,12 +71,13 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `gallery`,
-        path: `${__dirname}/src/content/`,
+        path: `${__dirname}/src/content/pics/`,
       },
     },
     `gatsby-plugin-image`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    `gatsby-plugin-meetup-pages`
+    `gatsby-plugin-meetup-pages`,
+    `gatsby-plugin-offres-pages`,
   ],
 }
