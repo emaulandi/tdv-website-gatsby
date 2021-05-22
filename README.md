@@ -1,3 +1,5 @@
+Ce repository a été dupliqué sous https://github.com/ToulouseDataViz/website et sera mis à jour dans l'organisation ToulouseDataViz
+
 # Forked from gatsby-starter-forty
 https://github.com/codebushi/gatsby-starter-forty
 
